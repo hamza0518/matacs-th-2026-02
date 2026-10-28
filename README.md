@@ -6,7 +6,7 @@
 
 ## Files
 
-- [Process-flow diagram](diagram/triage-flow.png)
+- [Process-flow diagram](flow.png)
 - [Design write-up](WRITEUP.md)
 - [AI prompts](PROMPTS.md)
 - [Expected ranking](ranking.json)
