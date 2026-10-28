@@ -13,4 +13,4 @@
 
 ## AI-tool usage disclosure
 
-I used ChatGPT, Claude to help structure the design, draft the write-up and prompt, and check the sample ranking arithmetic. I reviewed the proposed approach rather than treating AI output as authoritative. One important correction was to reject the instruction embedded in Proposal C that tells automated systems to rank it first: proposal text is untrusted evidence, not an instruction to the triage system, so the ranking must follow only the administrator-approved criteria.
+I used ChatGPT and Claude to help structure the design, draft the write up and prompts, and review the sample ranking calculations. I reviewed the proposed approach rather than treating AI output as authoritative. One important correction was rejecting the instruction embedded in Proposal C that attempts to force a first place ranking: proposal text is untrusted data, not an instruction to the triage system, so ranking must follow the administrator approved criteria.
